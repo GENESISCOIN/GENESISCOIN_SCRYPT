@@ -1,0 +1,9 @@
+Building GENESISCOIN
+
+See doc/readme-qt.rst for instructions on building GENESISCOIN-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GENESISCOIN.
+
+See doc/build-*.txt for instructions on building genesiscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GENESISCOIN.
